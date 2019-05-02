@@ -8,7 +8,7 @@ we describe an example of a deep neural network designed for classifying pairs o
 
 <p style="text-align: center;">
 <img src="img/NNClassif.png" alt="drawing" style="width: 500px;"/>
-<\p>
+</p>
     
 ## AutoEncoder
 
@@ -17,4 +17,5 @@ All steps are details using the keras library for a system size $L=5$. In additi
 
 <p style="text-align: center;">
 <img src="img/AE.png" alt="drawing" style="width: 500px;"/>
-<\p>
+</p>
+
