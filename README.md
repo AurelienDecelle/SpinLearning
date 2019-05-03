@@ -4,7 +4,7 @@ this repository contains the code for both tasks described in the following [art
 
 ## Classifying Gauge orbits
 
-we describe an example of a deep neural network designed for classifying pairs of Ising system $J$ and $J'$ into being in the same gauge orbit or not. In the jupyter-notebook **DCNN_simple.ipynb**, all the details are commented.
+we describe an example of a deep neural network designed for classifying pairs of Ising system $J$ and $J'$ into being in the same gauge orbit or not. In the jupyter-notebook **DCNN_simple.ipynb**, all the details are commented. Below is an example of the architecture used for this task.
 
 <p style="text-align: center;">
 <img src="img/NNClassif.png" alt="drawing" style="width: 500px;"/>
